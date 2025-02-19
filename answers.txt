@@ -9,3 +9,7 @@ Answer: Data science could be used in finance to analyze financial data.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines one branch into another branch while being able to preserve the history of changes. Rebasing makes changes from one branch to another seem as if they were originally there since all commits are incorporated into main.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to getting more involved socially on campus and learning a diverse mix of content from my current classes.
